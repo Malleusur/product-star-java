@@ -1,4 +1,3 @@
 # product-star-java
-GIT Examples
-
-Updated 1!
+GIT ExamplsUPDATED
+Updated1!
